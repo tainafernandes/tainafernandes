@@ -21,12 +21,13 @@
 ##### 
 
 <div align="center" style="margin-top: 2rem;">
-<a href="https://github.com/tainafernandes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainafernandes&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tainafernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/tainafernandes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tainafernandes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tainafernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://user-images.githubusercontent.com/87373947/212895050-fe767cc8-cc8c-4b1e-af0e-ad202875a3d7.png" width="400" height="400">
 </div>
 
-![octocat-1673957161141](https://user-images.githubusercontent.com/87373947/212895050-fe767cc8-cc8c-4b1e-af0e-ad202875a3d7.png)
+
 
 
                     
